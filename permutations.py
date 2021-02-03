@@ -1,3 +1,4 @@
+#practicando con la libreria itertools
 from itertools import permutations
 a=[6,7,8]
 b=permutations(a,2)
